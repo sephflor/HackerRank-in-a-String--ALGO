@@ -1,1 +1,1 @@
-# HackerRank-in-a-String--ALGO
+# HackerRank-in-a-String--ALGO.This implementation checks if the characters 'h','a','c','k','e','r','r','a','n','k' appear in order (not necessarily consecutively) within the input string, returning "YES" if the sequence is found and "NO" otherwise, efficiently solving the problem in O(n) time complexity.
